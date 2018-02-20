@@ -1,0 +1,58 @@
+[
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=211",
+    "to": "/en/our-program/certification-and-audit/factory-lookup"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=211",
+    "to": "/zh/our-program-zh/certification-audit-zh/factory-lookup-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=206",
+    "to": "/en/resources"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=206",
+    "to": "/zh/resources-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=191",
+    "to": "/en/factories"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=191",
+    "to": "/zh/factories-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=257",
+    "to": "/en/resources/factory-resources/etp-audit-protocol-handbook"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=257",
+    "to": "/zh/resources-zh/factory-resources-zh/etp-audit-protocol-handbook-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=273",
+    "to": "/en/resources/factory-resources/etp-guidelines"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=273",
+    "to": "/zh/resources-zh/factory-resources-zh/etp-guidelines-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=194",
+    "to": "/en/resources/factory-resources/policies"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=194",
+    "to": "/zh/resources-zh/factory-resources-zh/policies-zh"
+  },
+  {
+    "source": "/uploadfileMgnt/01_201742117591.pdf",
+    "to": "/en/resources/factory-resources/factory-welcome-pack"
+  },
+  {
+    "source": "/uploadfileMgnt/01_2017421182447.pdf",
+    "to": "/zh/resources-zh/factory-resources-zh/factory-welcome-pack-zh"
+  }
+]

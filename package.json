@@ -1,0 +1,17 @@
+{
+  "name": "lambda-redirects",
+  "version": "1.0.0",
+  "description": "Set up redirects for a CloudFront instance using Lambda.",
+  "main": "index.js",
+  "scripts": {
+    "setup": "./node_modules/.bin/node-lambda setup",
+    "test": "./node_modules/.bin/node-lambda run",
+    "package": "./node_modules/.bin/node-lambda package"
+  },
+  "author": "Trolleymusic",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-lambda": "^0.11.6"
+  }
+}
