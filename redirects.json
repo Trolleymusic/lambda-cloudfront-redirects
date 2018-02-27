@@ -54,5 +54,21 @@
   {
     "source": "/uploadfileMgnt/01_2017421182447.pdf",
     "to": "/zh/resources-zh/factory-resources-zh/factory-welcome-pack-zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=290",
+    "to": "/en"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=290",
+    "to": "/zh"
+  },
+  {
+    "source": "/e/content/cat_page.asp\\?cat_id=284",
+    "to": "/en/news-and-events"
+  },
+  {
+    "source": "/s/content/cat_page.asp\\?cat_id=284",
+    "to": "/zh/news-and-events-zh"
   }
 ]
