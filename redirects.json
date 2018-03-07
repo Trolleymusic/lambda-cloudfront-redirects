@@ -70,5 +70,21 @@
   {
     "source": "/s/content/cat_page.asp\\?cat_id=284",
     "to": "/zh/news-and-events-zh"
+  },
+  {
+    "source": "e/content/cont_page.asp\\?content_id=401",
+    "to": "/en/introducing-the-ethical-toy-program"
+  },
+  {
+    "source": "s/content/cont_page.asp\\?content_id=401",
+    "to": "/zh/introducing-the-ethical-toy-program-zh"
+  },
+  {
+    "source": "e/default.asp",
+    "to": "/en"
+  },
+  {
+    "source": "s/default.asp",
+    "to": "/zh"
   }
 ]

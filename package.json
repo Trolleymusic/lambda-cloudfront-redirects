@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "setup": "./node_modules/.bin/node-lambda setup",
-    "test": "./node_modules/.bin/node-lambda run",
+    "test": "./node_modules/.bin/tap test.js && ./node_modules/.bin/node-lambda run",
     "package": "./node_modules/.bin/node-lambda package"
   },
   "author": "Trolleymusic",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "node-lambda": "^0.11.6"
+    "node-lambda": "^0.11.6",
+    "tap": "^11.1.1"
   }
 }
