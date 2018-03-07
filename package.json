@@ -1,6 +1,6 @@
 {
   "name": "lambda-redirects",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Set up redirects for a CloudFront instance using Lambda.",
   "main": "index.js",
   "scripts": {
